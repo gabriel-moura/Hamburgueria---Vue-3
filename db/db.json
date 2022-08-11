@@ -79,90 +79,27 @@
   ],
   "burgers": [
     {
-      "name": "Gabis",
+      "name": "testet",
       "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
+      "pao": "Italiano Branco",
       "opcionais": [
+        "Cheddar",
         "Bacon",
-        "Salame"
+        "Tomate"
       ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "name": "Gabis",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "name": "Gabis",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "name": "Gabis",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 4
     },
     {
-      "name": "asas",
-      "carne": "Maminha",
+      "name": "aasda",
+      "carne": "Alcatra",
       "pao": "Italiano Branco",
       "opcionais": [
-        "Salame",
         "Bacon",
-        "Pepino"
+        "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 5
-    },
-    {
-      "name": "ssa",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "name": "ssa",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "name": "sda",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 8
     }
   ]
 }

@@ -1,7 +1,7 @@
 <template>
-    <footer id="footer">
+    <div id="footer">
         <p>Make Your Burguer &copy;</p>
-    </footer>
+    </div>
 </template>
 <script>
 export default{
@@ -9,14 +9,17 @@ export default{
 }
 </script>
 <style scoped>
-#footer{
+ #footer {
     height: 200px;
-    background-color:#222;
+    background-color: #222;
     border-top: 4px solid #111;
     color: #fcba03;
     display: flex;
     align-items: center;
     justify-content: center;
-    width:100%;
-}
+    /* bottom: 0; */
+    width: 100%;
+    
+  }
+
 </style>
